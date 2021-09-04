@@ -15,6 +15,7 @@ li{
     font-family:'Rokkitt',serif;
     font-size:2em;
     color:#feb135;
+    cursor:pointer;
 }
 
 input[type=radio]{
@@ -49,6 +50,7 @@ p{
     position:relative;
     margin:auto;
     padding-top:20px;
+    cursor:pointer;
 }
 
 .question{
@@ -72,11 +74,14 @@ p{
     padding:2px;
     font-family:'Rokkitt',serif;
     color:red;
+    font-size:20px;
+    font-weight: 700;
 }
 
 .choiceList{
     font-family:Courier,serif;
     color:blueviolet;
+    cursor:pointer;
 }
 
 .result{
@@ -88,4 +93,6 @@ p{
     margin-bottom:35px;
     text-align: center;
     font-family:'Rokkitt',serif;
+    font-size:20px;
+    font-weight: 700;
 }
